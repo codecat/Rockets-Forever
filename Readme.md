@@ -78,7 +78,7 @@ This is the source code for the Rockets Forever serverside mod. Original (old) r
 
     Just as cmd_cmdOnChat and cmd_cmdOnTick I've added 3 more of those: rf_cmdOnJoin, rf_cmdOnKill and rf_cmdOnLeave. Also to fetch the users that are according to those events you can use rf_cmdUser1 (Main user / killer) and rf_cmdUser2 (Player that got killed). For example if someone makes a kill and you want the server to say something about it type this:
 
-    rf_cmdOnKill = "SayFromTo(-0,-1,\"^cffff00Nice shot, \"+rf_cmdUser1+\"!\";";
+    rf_cmdOnKill = "SayFromTo(-0,-1,\"^cffff00Nice shot, \"+rf_cmdUser1+\"!\");";
 
     I'm also developing 'The Serious Ranker Local Edition' that requires v1.13 or above. But since it's not done yet it will be included in a later version.
 
