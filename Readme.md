@@ -91,4 +91,6 @@ Server mod for Serious Sam Classic: The Second Encounter 1.07
 
 Original binaries of v1.22 can be found here: http://ys.lancop.nl/upload/files/angelo/Releases/RS_v1.22.zip
 
+**License:** For the sake of transparency, Rockets Forever is licensed under the [GNU GPL v3](https://gnu.org/licenses/gpl.html). Please do not redistribute anywhere other than on Github. Give proper credit to the original authors (Angelo, Politician, DwK) when you use this code.
+
 The original source code is based on the 1.07 SDK by Croteam, with combined efforts of Angelo, Politician and DwK. This was originally authored somewhere around 2007/2009.
